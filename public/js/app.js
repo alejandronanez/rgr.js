@@ -1,2 +1,4 @@
 
-console.log('Hi from app.js');
+import React from 'react';
+
+console.log(React);
